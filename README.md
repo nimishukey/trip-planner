@@ -1,4 +1,4 @@
-# trip-planner
+# Trip Planner
 A C program that finds the optimal walking and ferry route between city landmarks based on user preferences and real-time schedules.
 
 This project is a real-time trip planner that takes into account walking paths, ferry schedules, and user departure times to suggest the most efficient route through a city.
@@ -38,5 +38,17 @@ This project is a real-time trip planner that takes into account walking paths, 
 
 4. Enter **done** when you're finished to exit.
 
+---
+
+## Example
+
+  ```yaml
+  Number of walking links: 2
+  TheRocks
+  CircularQuay
+  6
+  ManlyWharf
+  ManlyBeach
+  8
    
 
