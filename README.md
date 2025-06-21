@@ -42,7 +42,7 @@ This project is a real-time trip planner that takes into account walking paths, 
 
 ## Example
 
-```text
+```` ``` ````yaml
 Number of walking links: 2
 TheRocks
 CircularQuay
@@ -61,7 +61,7 @@ Walk 8 minute(s):
 
 From: done
 Happy travels!
-&nbsp;
+
 ---
 
 ## Project Structure
