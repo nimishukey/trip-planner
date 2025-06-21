@@ -42,7 +42,7 @@ This project is a real-time trip planner that takes into account walking paths, 
 
 ## Example
 
-```` ``` ````text
+```` ``` ````bash
 Number of walking links: 2
 TheRocks
 CircularQuay
