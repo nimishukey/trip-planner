@@ -1,11 +1,3 @@
-/*
-
-For each vertex (landmark), we need to examine m + p edges (walking links and ferry schedules). 
-Therefore, the time complexity for finding the shortest route using the Dijkstra’s algorithm is O(n * (m + p))
-
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
