@@ -50,5 +50,18 @@ This project is a real-time trip planner that takes into account walking paths, 
   ManlyWharf
   ManlyBeach
   8
-   
+
+  From: TheRocks
+  To: CircularQuay
+  Departure time: 0000
+
+  Walk 8 minute(s):
+    0000 TheRocks
+    0008 CircularQuay
+
+  From: done
+  Happy travels!
+
+
+
 
