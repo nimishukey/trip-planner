@@ -62,6 +62,13 @@ This project is a real-time trip planner that takes into account walking paths, 
   From: done
   Happy travels!
 
+---
 
+## Project Structure
+
+```bash
+  trip-planner/
+├── tripPlan.c      # Main C source file
+└── README.md      
 
 
